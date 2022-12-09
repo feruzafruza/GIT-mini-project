@@ -1,1 +1,2 @@
 My first conflict scenario!
+merge conflict
